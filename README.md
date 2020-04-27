@@ -5,7 +5,7 @@ Veri madenciliği ve makine öğrenmesinde kullanılan Birliktelik Kuralları (A
 
 KULLANIMI
 1. birliktelik.py dosyasını projenize dahil edin
-    \nimport birliktelik as b
+    import birliktelik as b
     
 2. Birliktelik nesnesini örnekleyin  
     Kullanım    birliktelik("dosyaAdi", "destekEsikDegeri", "guvenEsikDegeri")
@@ -23,8 +23,8 @@ KULLANIMI
 NOT: Yazdığım program txt dosyasını okumaktadır. txt dosyası içerisindeki tüm veriler bitişik, virgüllerle birbirinden ayrılmış olmalıdır.
 
 Örnek
-veri1,veri2,veri4...
-veri2,veri3,veri1...
-.
-.
-.
+    veri1,veri2,veri4...
+    veri2,veri3,veri1...
+    .
+    .
+    .
