@@ -8,7 +8,7 @@ KULLANIMI
     import birliktelik as b
     
 2. Birliktelik nesnesini örnekleyin  
-    # Kullanım    birliktelik("dosyaAdi", "destekEsikDegeri", "guvenEsikDegeri")
+    Kullanım    birliktelik("dosyaAdi", "destekEsikDegeri", "guvenEsikDegeri")
     B1 = b.Birliktelik("vt.txt", 0.5, 0.9)
 
 3. vt içindeki verileri görüntülemek için
