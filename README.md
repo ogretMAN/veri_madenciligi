@@ -5,7 +5,7 @@ Veri madenciliği ve makine öğrenmesinde kullanılan Birliktelik Kuralları (A
 
 KULLANIMI
 1. birliktelik.py dosyasını projenize dahil edin
-    import birliktelik as b
+    \nimport birliktelik as b
     
 2. Birliktelik nesnesini örnekleyin  
     Kullanım    birliktelik("dosyaAdi", "destekEsikDegeri", "guvenEsikDegeri")
