@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Copyright 2020 Selçuk Sinan KIRAT
-
-English Text
-<Python program of data mining association rulse>
+English License Notification
+<Python Program of Data Mining Association Rules>
     Copyright (C) <2020>  <Selçuk Sinan KIRAT>
 
     This program is free software: you can redistribute it and/or modify
@@ -22,7 +20,7 @@ English Text
 
 ---------------------------------------------------------
 
-Türkçe Metin
+Türkçe Lisans Bildirimi
 <Veri Madenciliği Birliktelik Kuralları Python Programı>
 
     Copyright (C) <2020> <Selçuk Sinan KIRAT>
