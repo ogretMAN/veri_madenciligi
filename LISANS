@@ -1,3 +1,6 @@
+İngilizce lisans metni: http://www.gnu.org/licenses/gpl.html
+Buradaki Türkçe çeviri kaynağı: http://ozgurlisanslar.org.tr/gpl/gpl-v3/
+
 GNU GENEL KAMU LİSANSI
 Sürüm 3, 29 Haziran 2007
 
@@ -228,3 +231,5 @@ Varsayımsal ‘göster t’ ve ‘göster k’ komutları Genel Kamu Lisansı�
 Ayrıca (bir programcı olarak çalışıyorsanız) işvereninize ya da varsa okula, gerekirse bir “telif hakkı feragatnamesi” imzalatmalısınız. Bununla ilgili daha fazla bilgiye, ve GNU GKL’nin nasıl uygulanacağı ve izleneceğine dair bilgiye <http://www.gnu.org/licenses/> adresinden ulaşabilirsiniz.
 
 GNU Genel Kamu Lisansı programınızın tescilli bir programla birleşip tüzel kişilik kazanmasına izin vermez. Eğer programınız bir altprogram kütüphanesiyse, tescilli uygulamaların bu kütüphaneyle bağlanmasına izin vermeyi daha kullanışlı görebilirsiniz. Eğer böyle olmasını istiyorsanız, bu lisans yerine GNU Kısıtlı Genel Kamu Lisansı’nı kullanınız. Fakat öncelikle şunu okuyunuz: <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
+*Özgür yazılım kavramının İngilizcesi “free software” olarak ifade edilir. Burada “free” sözcüğünün anlamı, “ücretsiz” değil “özgür”dür.
